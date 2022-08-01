@@ -30,9 +30,8 @@
 //
 // Related Topics 数组 哈希表 字符串 👍 193 👎 0
 
-func main() {
+package main
 
-}
 // leetcode submit region begin(Prohibit modification and deletion)
 func findAndReplacePattern(words []string, pattern string) []string {
 	var res []string
