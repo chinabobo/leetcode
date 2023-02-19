@@ -5,6 +5,7 @@ type ListNode struct {
 	Next *ListNode
 }
 
+// https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/
 // 给定一个排序链表，删除所有含有重复数字的节点，只保留原始链表中 没有重复出现的数字。
 // 思路：链表头结点可能被删除，所以用 dummy node 辅助删除
 
