@@ -1,10 +1,4 @@
----
-title: Leetcode note
-date: 2021-03-26
-tags: 
----
-
-## binary-tree
+# binary-tree
 
 - [x] [maximum-depth-of-binary-tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 
@@ -24,7 +18,7 @@ tags:
 
 - [x] [insert-into-a-binary-search-tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)
 
-## linked-list
+# linked-list
 
 - [x] [remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
 
