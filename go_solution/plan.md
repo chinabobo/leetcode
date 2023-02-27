@@ -36,7 +36,7 @@
 
 - [x] [reorder-list](https://leetcode-cn.com/problems/reorder-list/)
 
-- [ ] [linked-list-cycle](https://leetcode-cn.com/problems/linked-list-cycle/)
+- [x] [linked-list-cycle](https://leetcode-cn.com/problems/linked-list-cycle/)
 
 - [ ] [linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
 
