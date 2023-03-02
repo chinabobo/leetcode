@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+// https://leetcode.cn/problems/palindrome-linked-list/
+
 type ListNode struct {
 	Val  int
 	Next *ListNode
