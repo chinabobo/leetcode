@@ -42,4 +42,24 @@
 
 - [x] [palindrome-linked-list](https://leetcode-cn.com/problems/palindrome-linked-list/)
 
-- [ ] [copy-list-with-random-pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
+- [x] [copy-list-with-random-pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
+
+## 栈和队列
+
+- [x] [min-stack](https://leetcode-cn.com/problems/min-stack/)
+
+- [x] [evaluate-reverse-polish-notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
+
+- [x] [decode-string](https://leetcode-cn.com/problems/decode-string/)
+
+- [ ] [binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
+
+- [ ] [clone-graph](https://leetcode-cn.com/problems/clone-graph/)
+
+- [ ] [number-of-islands](https://leetcode-cn.com/problems/number-of-islands/)
+
+- [ ] [largest-rectangle-in-histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
+
+- [ ] [implement-queue-using-stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
+
+- [ ] [01-matrix](https://leetcode-cn.com/problems/01-matrix/)
