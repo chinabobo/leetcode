@@ -52,7 +52,7 @@
 
 - [x] [decode-string](https://leetcode-cn.com/problems/decode-string/)
 
-- [ ] [binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
+- [x] [binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
 
 - [ ] [clone-graph](https://leetcode-cn.com/problems/clone-graph/)
 
