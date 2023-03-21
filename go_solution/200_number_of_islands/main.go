@@ -20,6 +20,9 @@ func numIslands(grid [][]byte) int {
 		for j := 0; j < len(grid[i]); j++ {
 			if grid[i][j] == '1' && dfs(grid, i, j) >= 1 {
 				count++
+				for _, bytes := range grid {
+					fmt.Println(bytes)
+				}
 			}
 		}
 	}
