@@ -54,11 +54,11 @@
 
 - [x] [binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
 
-- [ ] [clone-graph](https://leetcode-cn.com/problems/clone-graph/)
+- [x] [clone-graph](https://leetcode-cn.com/problems/clone-graph/)
 
-- [ ] [number-of-islands](https://leetcode-cn.com/problems/number-of-islands/)
+- [x] [number-of-islands](https://leetcode-cn.com/problems/number-of-islands/)
 
-- [ ] [largest-rectangle-in-histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
+- [x] [largest-rectangle-in-histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
 
 - [ ] [implement-queue-using-stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
 
