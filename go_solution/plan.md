@@ -63,3 +63,17 @@
 - [x] [implement-queue-using-stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
 
 - [x] [01-matrix](https://leetcode-cn.com/problems/01-matrix/)
+
+## 栈和队列
+
+- [x] [single-number](https://leetcode-cn.com/problems/single-number/)
+
+- [ ] [single-number-ii](https://leetcode-cn.com/problems/single-number-ii/)
+
+- [ ] [single-number-iii](https://leetcode-cn.com/problems/single-number-iii/)
+
+- [ ] [number-of-1-bits](https://leetcode-cn.com/problems/number-of-1-bits/)
+
+- [ ] [counting-bits](https://leetcode-cn.com/problems/counting-bits/)
+
+- [ ] [reverse-bits](https://leetcode-cn.com/problems/reverse-bits/)
