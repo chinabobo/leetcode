@@ -68,9 +68,9 @@
 
 - [x] [single-number](https://leetcode-cn.com/problems/single-number/)
 
-- [ ] [single-number-ii](https://leetcode-cn.com/problems/single-number-ii/)
+- [x] [single-number-ii](https://leetcode-cn.com/problems/single-number-ii/)
 
-- [ ] [single-number-iii](https://leetcode-cn.com/problems/single-number-iii/)
+- [x] [single-number-iii](https://leetcode-cn.com/problems/single-number-iii/)
 
 - [ ] [number-of-1-bits](https://leetcode-cn.com/problems/number-of-1-bits/)
 
