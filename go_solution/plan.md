@@ -72,7 +72,7 @@
 
 - [x] [single-number-iii](https://leetcode-cn.com/problems/single-number-iii/)
 
-- [ ] [number-of-1-bits](https://leetcode-cn.com/problems/number-of-1-bits/)
+- [x] [number-of-1-bits](https://leetcode-cn.com/problems/number-of-1-bits/)
 
 - [ ] [counting-bits](https://leetcode-cn.com/problems/counting-bits/)
 
