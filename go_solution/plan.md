@@ -80,6 +80,18 @@
 
 ## 二分搜索
 
+给一个有序数组和目标值，找第一次/最后一次/任何一次出现的索引，如果没有出现返回-1
+
+模板四点要素
+1. 初始化：start=0、end=len-1
+2. 循环退出条件：start + 1 < end
+3. 比较中点和目标值：A[mid] ==、 <、> target
+4. 判断最后两个元素是否符合：A[start]、A[end] ? target
+
+时间复杂度 O(logn)，使用场景一般是有序数组的查找
+
+- [x] [binary-search](https://leetcode-cn.com/problems/binary-search/)
+
 - [ ] [search-for-range](https://www.lintcode.com/problem/search-for-a-range/description)
 
 - [ ] [search-insert-position](https://leetcode-cn.com/problems/search-insert-position/)
