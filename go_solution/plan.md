@@ -92,7 +92,7 @@
 
 - [x] [binary-search](https://leetcode-cn.com/problems/binary-search/)
 
-- [ ] [search-for-range](https://www.lintcode.com/problem/search-for-a-range/description)
+- [x] [search-for-range](https://www.lintcode.com/problem/search-for-a-range/description)
 
 - [ ] [search-insert-position](https://leetcode-cn.com/problems/search-insert-position/)
 
