@@ -94,11 +94,11 @@
 
 - [x] [search-for-range](https://www.lintcode.com/problem/search-for-a-range/description)
 
-- [ ] [search-insert-position](https://leetcode-cn.com/problems/search-insert-position/)
+- [x] [search-insert-position](https://leetcode-cn.com/problems/search-insert-position/)
 
-- [ ] [search-a-2d-matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)
+- [x] [search-a-2d-matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)
 
-- [ ] [first-bad-version](https://leetcode-cn.com/problems/first-bad-version/)
+- [x] [first-bad-version](https://leetcode-cn.com/problems/first-bad-version/)
 
 - [ ] [find-minimum-in-rotated-sorted-array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
 
