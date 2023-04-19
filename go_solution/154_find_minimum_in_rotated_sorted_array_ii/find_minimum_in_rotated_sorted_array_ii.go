@@ -20,7 +20,7 @@ func findMin(nums []int) int {
 	start := 0
 	end := len(nums) - 1
 	for start+1 < end {
-		// 去除重复元素
+		// 去除首尾的重复元素
 		for start < end && nums[end] == nums[end-1] {
 			end--
 		}

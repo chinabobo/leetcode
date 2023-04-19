@@ -44,7 +44,7 @@
 
 - [x] [copy-list-with-random-pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
 
-## 栈和队列
+## 栈和队列 The stack and queue
 
 - [x] [min-stack](https://leetcode-cn.com/problems/min-stack/)
 
@@ -64,7 +64,7 @@
 
 - [x] [01-matrix](https://leetcode-cn.com/problems/01-matrix/)
 
-## 栈和队列
+## 二进制 binary
 
 - [x] [single-number](https://leetcode-cn.com/problems/single-number/)
 
@@ -78,7 +78,7 @@
 
 - [x] [reverse-bits](https://leetcode-cn.com/problems/reverse-bits/)
 
-## 二分搜索
+## 二分搜索  binary search
 
 给一个有序数组和目标值，找第一次/最后一次/任何一次出现的索引，如果没有出现返回-1
 
@@ -100,10 +100,22 @@
 
 - [x] [first-bad-version](https://leetcode-cn.com/problems/first-bad-version/)
 
-- [ ] [find-minimum-in-rotated-sorted-array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
+- [x] [find-minimum-in-rotated-sorted-array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
 
-- [ ] [find-minimum-in-rotated-sorted-array-ii](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+- [x] [find-minimum-in-rotated-sorted-array-ii](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 
-- [ ] [search-in-rotated-sorted-array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+- [x] [search-in-rotated-sorted-array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 
-- [ ] [search-in-rotated-sorted-array-ii](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)
+- [x] [search-in-rotated-sorted-array-ii](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)
+
+## sort algorithm
+
+- [ ] quick-sort
+
+- [ ] merge-sort
+
+- [ ] heap-sort
+
+- [ ] [二叉堆](https://labuladong.github.io/algo/di-yi-zhan-da78c/shou-ba-sh-daeca/er-cha-dui-1a386/)
+
+- [ ] [十大经典排序](https://www.cnblogs.com/onepixel/p/7674659.html)
