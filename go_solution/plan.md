@@ -44,7 +44,7 @@
 
 - [x] [copy-list-with-random-pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
 
-## 栈和队列 The stack and queue
+## The stack and queue
 
 - [x] [min-stack](https://leetcode-cn.com/problems/min-stack/)
 
@@ -64,7 +64,7 @@
 
 - [x] [01-matrix](https://leetcode-cn.com/problems/01-matrix/)
 
-## 二进制 binary
+## binary
 
 - [x] [single-number](https://leetcode-cn.com/problems/single-number/)
 
@@ -78,7 +78,7 @@
 
 - [x] [reverse-bits](https://leetcode-cn.com/problems/reverse-bits/)
 
-## 二分搜索  binary search
+## binary search
 
 给一个有序数组和目标值，找第一次/最后一次/任何一次出现的索引，如果没有出现返回-1
 
@@ -119,3 +119,43 @@
 - [ ] [二叉堆](https://labuladong.github.io/algo/di-yi-zhan-da78c/shou-ba-sh-daeca/er-cha-dui-1a386/)
 
 - [ ] [十大经典排序](https://www.cnblogs.com/onepixel/p/7674659.html)
+
+## dynamic programming
+
+Matrix DP (10%)
+
+- [x] [triangle](https://leetcode-cn.com/problems/triangle/)
+
+- [ ] [minimum-path-sum](https://leetcode-cn.com/problems/minimum-path-sum/)
+
+- [ ] [unique-paths](https://leetcode-cn.com/problems/unique-paths/)
+
+- [ ] [unique-paths-ii](https://leetcode-cn.com/problems/unique-paths-ii/)
+
+Sequence (40%)
+
+- [ ] [climbing-stairs](https://leetcode-cn.com/problems/climbing-stairs/)
+
+- [ ] [jump-game](https://leetcode-cn.com/problems/jump-game/)
+
+- [ ] [jump-game-ii](https://leetcode-cn.com/problems/jump-game-ii/)
+
+- [ ] [palindrome-partitioning-ii](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)
+
+- [ ] [longest-increasing-subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+
+- [ ] [word-break](https://leetcode-cn.com/problems/word-break/)
+
+Two Sequences DP (40%)
+
+- [ ] [longest-common-subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)
+
+- [ ] [edit-distance](https://leetcode-cn.com/problems/edit-distance/)
+
+Backpack & Coin Change (10%)
+
+- [ ] [coin-change](https://leetcode-cn.com/problems/coin-change/)
+
+- [ ] [backpack](https://www.lintcode.com/problem/backpack/description)
+
+- [ ] [backpack-ii](https://www.lintcode.com/problem/backpack-ii/description)
