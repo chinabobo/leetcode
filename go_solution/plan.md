@@ -122,7 +122,7 @@
 
 ## dynamic programming
 
-Matrix DP (10%)
+### Matrix DP (10%)
 
 - [x] [triangle](https://leetcode-cn.com/problems/triangle/)
 
@@ -132,7 +132,7 @@ Matrix DP (10%)
 
 - [x] [unique-paths-ii](https://leetcode-cn.com/problems/unique-paths-ii/)
 
-Sequence (40%)
+### Sequence (40%)
 
 - [x] [climbing-stairs](https://leetcode-cn.com/problems/climbing-stairs/)
 
@@ -144,7 +144,14 @@ Sequence (40%)
 
 - [x] [longest-increasing-subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 
-- [ ] [word-break](https://leetcode-cn.com/problems/word-break/)
+- [x] [word-break](https://leetcode-cn.com/problems/word-break/)
+
+#### 小结
+常见处理方式是给 0 位置占位，这样处理问题时一视同仁，初始化则在原来基础上 length+1，返回结果 f[n]
+- 状态可以为前 i 个
+- 初始化 length+1
+- 取值 index=i-1
+- 返回值：f[n]或者 f[m][n]
 
 Two Sequences DP (40%)
 
