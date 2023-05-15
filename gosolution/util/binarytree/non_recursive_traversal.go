@@ -1,10 +1,10 @@
 package binarytree
 
 import (
-	. "github.com/chinabobo/leetcode/gosolution/model"
+	. "../../model"
 )
 
-func preorderTraversalNonRecursive(root *TreeNode) []int {
+func PreorderTraversalNonRecursive(root *TreeNode) []int {
 	if root == nil {
 		return nil
 	}

@@ -1,7 +1,7 @@
 package main
 
 import (
-	. "github.com/chinabobo/leetcode/gosolution/model"
+	. "../model"
 )
 
 // https://leetcode.cn/problems/binary-tree-inorder-traversal/

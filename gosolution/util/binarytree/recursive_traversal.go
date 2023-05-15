@@ -1,8 +1,8 @@
 package binarytree
 
 import (
+	. "../../model"
 	"fmt"
-	. "github.com/chinabobo/leetcode/gosolution/model"
 )
 
 func preorderTraversalRecursive(root *TreeNode) {

@@ -1,7 +1,7 @@
 package main
 
 import (
-	. "github.com/chinabobo/leetcode/gosolution/model"
+	. "../model"
 )
 
 // https://leetcode.cn/problems/insert-into-a-binary-search-tree/
