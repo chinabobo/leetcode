@@ -1,10 +1,8 @@
 package main
 
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
+import (
+	. "github.com/chinabobo/leetcode/gosolution/model"
+)
 
 /*
 https://leetcode.cn/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/

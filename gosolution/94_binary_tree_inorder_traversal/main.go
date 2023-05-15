@@ -1,10 +1,8 @@
 package main
 
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
+import (
+	. "github.com/chinabobo/leetcode/gosolution/model"
+)
 
 // https://leetcode.cn/problems/binary-tree-inorder-traversal/
 // 给定一个二叉树，返回它的中序遍历。
