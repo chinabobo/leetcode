@@ -1,7 +1,7 @@
 package binarytree
 
 import (
-	. "../../model"
+	. "github.com/chinabobo/leetcode/model"
 )
 
 func preorderTraversalTopdown(root *TreeNode) []int {

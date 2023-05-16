@@ -1,6 +1,6 @@
 package binarytree
 
-import . "../../model"
+import . "github.com/chinabobo/leetcode/model"
 
 func BuildTree(l []int) (root *TreeNode) {
 	length := len(l)

@@ -1,7 +1,7 @@
 package main
 
 import (
-	. "../model"
+	. "github.com/chinabobo/leetcode/model"
 )
 
 // https://leetcode.cn/problems/binary-tree-inorder-traversal/

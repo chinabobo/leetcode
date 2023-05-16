@@ -1,9 +1,9 @@
 package main
 
 import (
-	"../model"
-	"../util/binarytree"
 	"fmt"
+	"github.com/chinabobo/leetcode/model"
+	"github.com/chinabobo/leetcode/util/binarytree"
 )
 
 func main() {
