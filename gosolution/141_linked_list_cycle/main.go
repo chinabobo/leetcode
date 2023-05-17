@@ -1,15 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	. "github.com/chinabobo/leetcode/model"
+)
 
 // https://leetcode.cn/problems/linked-list-cycle/
 // 给定一个链表，判断链表中是否有环。
 // 快慢指针，指针相遇就有
-
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
 
 func newListNode(arr []int) *ListNode {
 	var head ListNode

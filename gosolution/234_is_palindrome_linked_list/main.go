@@ -1,14 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	. "github.com/chinabobo/leetcode/model"
+)
 
 // https://leetcode.cn/problems/palindrome-linked-list/
-
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
-
 func newListNode(arr []int) *ListNode {
 	var head ListNode
 	var pre ListNode

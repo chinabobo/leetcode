@@ -2,17 +2,12 @@ package main
 
 import (
 	"fmt"
+	. "github.com/chinabobo/leetcode/model"
 )
 
 // https://leetcode.cn/problems/sort-list/
 // 在 O(n log n) 时间复杂度和常数级空间复杂度下，对链表进行排序。
 // 思路：归并排序，找中点和合并操作
-
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
-
 func newListNode(arr []int) *ListNode {
 	var head ListNode
 	var pre ListNode

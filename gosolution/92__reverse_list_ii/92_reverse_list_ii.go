@@ -1,9 +1,8 @@
 package main
 
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
+import (
+	. "github.com/chinabobo/leetcode/model"
+)
 
 func main() {
 	head := CreateNodeInsterOnHead([]int{5, 3}) // 3, 5

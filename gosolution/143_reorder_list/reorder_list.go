@@ -1,16 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	. "github.com/chinabobo/leetcode/model"
+)
 
 // https://leetcode.cn/problems/reorder-list/
 // 给定一个单链表 L：L→L→…→L__n→L 将其重新排列后变为： L→L__n→L→L__n→L→L__n→…
 // 思路：找到中点断开，翻转后面部分，然后合并前后两个链表
-
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
-
 func newListNode(arr []int) *ListNode {
 	var head ListNode
 	var pre ListNode

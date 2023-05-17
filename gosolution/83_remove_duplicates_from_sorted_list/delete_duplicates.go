@@ -1,9 +1,8 @@
 package main
 
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
+import (
+	. "github.com/chinabobo/leetcode/model"
+)
 
 // https://leetcode.cn/problems/remove-duplicates-from-sorted-list/
 // 给定一个排序链表，删除所有重复的元素，使得每个元素只出现一次。

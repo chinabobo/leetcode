@@ -1,9 +1,8 @@
 package main
 
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
+import (
+	. "github.com/chinabobo/leetcode/model"
+)
 
 // 反转一个单链表。
 // 思路：用一个 prev 节点保存向前指针，temp 保存向后的临时指针
