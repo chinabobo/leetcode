@@ -155,9 +155,9 @@
 
 Two Sequences DP (40%)
 
-- [ ] [longest-common-subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)
+- [x] [longest-common-subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)
 
-- [ ] [edit-distance](https://leetcode-cn.com/problems/edit-distance/)
+- [x] [edit-distance](https://leetcode-cn.com/problems/edit-distance/)
 
 Backpack & Coin Change (10%)
 

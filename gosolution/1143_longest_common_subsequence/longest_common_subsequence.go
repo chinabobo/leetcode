@@ -23,6 +23,13 @@ func main() {
 相等取左上元素+1，否则取左或上的较大值
 从 1 开始遍历到最大长度
 索引需要减一
+
+		a	b	c	d	e
+	a	0	0	0	0	0	0
+	c	0	1	1	1	1	1
+   	e	0	1	1	2	2	2
+		0	1	1	2	2	3
+
 */
 func longestCommonSubsequence(a string, b string) int {
 	dp := make([][]int, len(a)+1)
