@@ -36,23 +36,34 @@ https://www.nowcoder.com/questionTerminal/16976852ad2f4e26a1ff9f555234cab2
 6
 */
 func main() {
-	//a := 0
-	//b := 0
-	//for {
+	// a := 0
+	// b := 0
+	// for {
 	//	n, _ := fmt.Scan(&a, &b)
 	//	if n == 0 {
 	//		break
 	//	} else {
 	//		fmt.Printf("%d\n", a+b)
 	//	}
-	//}
-	//n := 6
-	//s := "010101"
-	n := 3
-	s := "111"
+	// }
+	// n := 6
+	// s := "010101"
+	n := 20
+	s := "11111111111111111111"
 	fmt.Println(calculateMaxValue(n, s))
 }
 
+/*
+从第二项开始遍历字符串。
+对每一项，其价值最小为上一项价值+1，如221。
+所以先将其价值预设为最小值，val[i]=val[i-1]+1。并设置一个计数，cnt=1。
+从i-1项开始，从后向前遍历字符串。当遇到与i项相同的字符时，令cnt++。
+当遇到不同字符时，最大价值分两种情况，
+一种是最大价值为前半段采用该不同字符的价值，而后半段则由之后与i项相同的连续字符串组成，即val[j] + cnt * (cnt + 1) / 2
+其中cnt * (cnt + 1) / 2为连续cnt个字符的价值，是基本的等差数列求和公式。
+另一种情况是当前最大价值字符串中不需要该不同的字符，将其从字符串中剔除，则其不对字符串价值产生影响。val[i]不变。
+当全部遍历后，计算将前面所有不同字符剔除的价值，判断其与当前价值，即保留不同字符组合而成的价值的大小关系，取最大值作为最大价值。
+*/
 func calculateMaxValue(n int, s string) int {
 	dp := make([]int, n)
 	dp[0] = 1
@@ -61,9 +72,9 @@ func calculateMaxValue(n int, s string) int {
 		count := 1
 		for j := i - 1; j > -1; j-- {
 			if s[j] == s[i] {
-				if j == 0 && dp[i] < count*(count+1)/2 {
-					dp[i] = count * (count + 1) / 2
-				}
+				// if j == 0 && dp[i] < count*(count+1)/2 {
+				// 	dp[i] = count * (count + 1) / 2
+				// }
 				count++
 
 			} else {
@@ -72,7 +83,12 @@ func calculateMaxValue(n int, s string) int {
 				}
 			}
 		}
+		if dp[i] < count*(count+1)/2 {
+			dp[i] = count * (count + 1) / 2
+		}
+
 	}
+
 	fmt.Println(dp)
 	return dp[n-1]
 }
