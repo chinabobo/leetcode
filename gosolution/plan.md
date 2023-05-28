@@ -161,7 +161,7 @@ Two Sequences DP (40%)
 
 Backpack & Coin Change (10%)
 
-- [ ] [coin-change](https://leetcode-cn.com/problems/coin-change/)
+- [x] [coin-change](https://leetcode-cn.com/problems/coin-change/)
 
 - [ ] [backpack](https://www.lintcode.com/problem/backpack/description)
 
