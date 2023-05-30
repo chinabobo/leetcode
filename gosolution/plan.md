@@ -163,6 +163,16 @@ Backpack & Coin Change (10%)
 
 - [x] [coin-change](https://leetcode-cn.com/problems/coin-change/)
 
-- [ ] [backpack](https://www.lintcode.com/problem/backpack/description)
+- [x] [backpack](https://www.lintcode.com/problem/backpack/description)
 
-- [ ] [backpack-ii](https://www.lintcode.com/problem/backpack-ii/description)
+- [x] [backpack-ii](https://www.lintcode.com/problem/backpack-ii/description)
+
+## recursive
+
+- [x] [reverse-string](https://leetcode-cn.com/problems/reverse-string/)
+
+- [ ] [swap-nodes-in-pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
+
+- [ ] [unique-binary-search-trees-ii](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
+
+- [ ] [fibonacci-number](https://leetcode-cn.com/problems/fibonacci-number/)
