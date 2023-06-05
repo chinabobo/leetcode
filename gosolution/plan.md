@@ -171,8 +171,8 @@ Backpack & Coin Change (10%)
 
 - [x] [reverse-string](https://leetcode-cn.com/problems/reverse-string/)
 
-- [ ] [swap-nodes-in-pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
+- [x] [swap-nodes-in-pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 
-- [ ] [unique-binary-search-trees-ii](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
+- [x] [unique-binary-search-trees-ii](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
 
 - [ ] [fibonacci-number](https://leetcode-cn.com/problems/fibonacci-number/)
