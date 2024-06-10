@@ -110,11 +110,11 @@
 
 ## sort algorithm
 
-- [ ] quick-sort
+- [x] quick-sort
 
-- [ ] merge-sort
+- [x] merge-sort
 
-- [ ] heap-sort
+- [x] heap-sort
 
 - [ ] [二叉堆](https://labuladong.github.io/algo/di-yi-zhan-da78c/shou-ba-sh-daeca/er-cha-dui-1a386/)
 
@@ -175,4 +175,14 @@ Backpack & Coin Change (10%)
 
 - [x] [unique-binary-search-trees-ii](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
 
-- [ ] [fibonacci-number](https://leetcode-cn.com/problems/fibonacci-number/)
+- [x] [fibonacci-number](https://leetcode-cn.com/problems/fibonacci-number/)
+
+## double pointer
+
+- [x] [move-zeroes](https://leetcode.com/problems/move-zeroes)
+
+- [x] [container-with-most-water](https://leetcode.cn/problems/container-with-most-water)
+
+- [ ] [3sum](https://leetcode.cn/problems/3sum)
+
+- [ ] [trapping-rain-water](https://leetcode.cn/problems/trapping-rain-water)

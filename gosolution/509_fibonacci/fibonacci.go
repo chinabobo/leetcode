@@ -44,7 +44,6 @@
 // Related Topics 递归 记忆化搜索 数学 动态规划 👍 510 👎 0
 package main
 
-// leetcode submit region begin(Prohibit modification and deletion)
 func fib(n int) int {
 	if n < 2 {
 		return n
@@ -58,4 +57,3 @@ func fib(n int) int {
 	return r
 }
 
-// leetcode submit region end(Prohibit modification and deletion)

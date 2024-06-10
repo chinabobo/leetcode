@@ -5,8 +5,12 @@
  *     Next *ListNode
  * }
  */
- func removeNthFromEnd(head *ListNode, n int) *ListNode {
-    dummy := &ListNode{0, head}
+package removenthfromend
+
+import "github.com/chinabobo/leetcode/model"
+
+ func removeNthFromEnd(head *model.ListNode, n int) *model.ListNode {
+    dummy := &model.ListNode{Val: 0, Next: head}
     left, right := dummy, dummy
     for i := 0; i < n; i++ {
         if right.Next == nil {
